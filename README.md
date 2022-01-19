@@ -4,8 +4,6 @@
 <img width="200" src="./img/logo-lisp.png" />
 </p>
 
-### Link Youtube: (coming soon)
-
 ### 🚧 WIP 🚧
 
 ## Topics
